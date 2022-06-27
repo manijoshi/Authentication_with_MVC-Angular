@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microblogger", "Microblogger\Microblogger.csproj", "{4436C626-0F49-4712-8212-D8CD04539C5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{D9EF829A-1841-40BE-BB90-B8633552823C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4436C626-0F49-4712-8212-D8CD04539C5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4436C626-0F49-4712-8212-D8CD04539C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4436C626-0F49-4712-8212-D8CD04539C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4436C626-0F49-4712-8212-D8CD04539C5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9EF829A-1841-40BE-BB90-B8633552823C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9EF829A-1841-40BE-BB90-B8633552823C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9EF829A-1841-40BE-BB90-B8633552823C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9EF829A-1841-40BE-BB90-B8633552823C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECEF0491-F7FF-487E-9A37-CD7B80DAE381}
+	EndGlobalSection
+EndGlobal
